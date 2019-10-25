@@ -1,4 +1,4 @@
-package com.yuan.inter.tree.BinarySearchTree;
+package com.yuan.inter.tree.binary_serach_tree;
 
 
 /**

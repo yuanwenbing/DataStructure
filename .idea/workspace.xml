@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ec83cd-85be-45b3-8ec5-d599cbf4565e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/tree/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/BinarySearchTree/BinarySearchTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-833">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="352">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
               <folding>
                 <element signature="e#477#478#0" expanded="true" />
                 <element signature="e#504#505#0" expanded="true" />
@@ -184,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_206.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/Main.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/tree/BinarySearchTree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -225,13 +224,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="inter" type="462c0819:PsiDirectoryNode" />
               <item name="queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStucture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="inter" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearchTree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,16 +361,15 @@
       <workItem from="1571362458352" duration="9657000" />
       <workItem from="1571619974343" duration="22316000" />
       <workItem from="1571965799412" duration="10117000" />
-      <workItem from="1571991200740" duration="3444000" />
+      <workItem from="1571991200740" duration="3842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70690000" />
+    <option name="totallyTimeSpent" value="71088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15601704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -397,7 +388,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3673036" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32908705" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
@@ -792,7 +783,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -864,10 +855,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/BinarySearchTree/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state relative-caret-position="352">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
           <folding>
             <element signature="e#477#478#0" expanded="true" />
             <element signature="e#504#505#0" expanded="true" />
