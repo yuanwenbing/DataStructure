@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ec83cd-85be-45b3-8ec5-d599cbf4565e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedListBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/map/BSTMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/map/LinkedListMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/map/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/set/BSTSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/set/LinkedListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/set/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/set/Solutions_804.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yuan/inter/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/DummyHeadLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/stack/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yuan/inter/stack/LinkedListStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,111 +32,146 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="459">
+              <caret line="236" lean-forward="true" selection-start-line="225" selection-start-column="3" selection-end-line="236" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3152#3153#0" expanded="true" />
+                <element signature="e#3411#3412#0" expanded="true" />
+                <element signature="e#3741#3742#0" expanded="true" />
+                <element signature="e#3769#3770#0" expanded="true" />
+                <element signature="e#5526#5527#0" expanded="true" />
+                <element signature="e#5550#5551#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/Solutions_804.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="5" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/BSTSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/LinkedListMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1005">
+              <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+              <folding>
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+                <element signature="e#2005#2006#0" expanded="true" />
+                <element signature="e#2083#2084#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/BSTMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            <state relative-caret-position="-1097">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#2004#2005#0" expanded="true" />
-                <element signature="e#2036#2037#0" expanded="true" />
-                <element signature="e#2417#2418#0" expanded="true" />
-                <element signature="e#2443#2444#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#1730#1731#0" expanded="true" />
+                <element signature="e#1775#1776#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/queue/LoopQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="315">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3250#3251#0" expanded="true" />
+                <element signature="e#3323#3324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedListBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+              <folding>
                 <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#1287#1288#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#1361#1362#0" expanded="true" />
-                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1085#1086#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/Solution_203.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/search/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="495">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_206.java">
+        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_203_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="151" column="18" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/Solution_203_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/recursive/Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -131,6 +181,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -167,7 +218,6 @@
         <option value="$PROJECT_DIR$/src/com/yuan/inter/queue/ArrayQueue.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/stack/StackSolution.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/queue/LoopQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/DummyHeadLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/stack/LinkedListStack.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/queue/LinkedListQueue.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/Solution_203.java" />
@@ -178,19 +228,31 @@
         <option value="$PROJECT_DIR$/src/com/yuan/inter/recursive/Sum.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_203_2.java" />
-        <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_206.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/Main.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/tree/BinarySearchTree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/sort/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/set/Set.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/set/BSTSet.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/DummyHeadLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/set/Solutions_804.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/map/Map.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedListBase.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/set/LinkedListSet.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/map/LinkedListMap.java" />
+        <option value="$PROJECT_DIR$/src/com/yuan/inter/map/BSTMap.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1779" />
+    <option name="y" value="53" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -223,7 +285,36 @@
               <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="inter" type="462c0819:PsiDirectoryNode" />
-              <item name="queue" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStucture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStucture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStucture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStucture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStucture" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inter" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_serach_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,13 +345,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution_206">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.inter.Main" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.inter.search.BinarySearch" />
       <module name="DataStucture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yuan.inter.array.*" />
+          <option name="PATTERN" value="com.yuan.inter.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yuan.inter.sort.BubbleSort" />
+      <module name="DataStucture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yuan.inter.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,19 +398,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yuan.inter.string.StringTest" />
-      <module name="DataStucture" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yuan.inter.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yuan.inter.recursive.Sum" />
       <module name="DataStucture" />
@@ -322,11 +413,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Solution_206" />
         <item itemvalue="Application.Solution_203_2" />
         <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,15 +452,16 @@
       <workItem from="1571362458352" duration="9657000" />
       <workItem from="1571619974343" duration="22316000" />
       <workItem from="1571965799412" duration="10117000" />
-      <workItem from="1571991200740" duration="3842000" />
+      <workItem from="1571991200740" duration="21062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71088000" />
+    <option name="totallyTimeSpent" value="88308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="1680" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15601704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -380,7 +472,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.26539278" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.26539278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915073" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,7 +480,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32908705" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.3673036" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32908705" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
@@ -438,18 +530,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaDemo$Test1.ic" NAME="Test1 Coverage Results" MODIFIED="1563256018848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
@@ -463,95 +543,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="120" column="12" lean-forward="true" selection-start-line="120" selection-start-column="12" selection-end-line="120" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Dictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="131" column="17" lean-forward="true" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
-          <folding>
-            <element signature="e#7926#7927#0" expanded="true" />
-            <element signature="e#7957#7958#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1720">
-          <caret line="1025" column="26" lean-forward="true" selection-start-line="1025" selection-start-column="26" selection-end-line="1025" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3675">
-          <caret line="282" column="17" lean-forward="true" selection-start-line="282" selection-start-column="17" selection-end-line="282" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/LRUCache.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/LurCacheDemo.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="632" column="31" selection-start-line="632" selection-start-column="31" selection-end-line="632" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="173" column="25" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2758">
@@ -633,17 +624,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/queue/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/SynchronizedTest.java" />
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/array/Array.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -679,13 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="192" column="36" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/DummyHeadLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -752,28 +725,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,18 +761,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/recursive/Solution_203_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="58">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="151" column="18" selection-start-line="151" selection-start-column="18" selection-end-line="151" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -830,7 +778,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/recursive/Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#225#226#0" expanded="true" />
@@ -839,10 +787,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/queue/LoopQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="480">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#389#390#0" expanded="true" />
@@ -855,19 +814,196 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="385" column="32" selection-start-line="385" selection-start-column="27" selection-end-line="385" selection-end-column="32" />
+          <folding>
+            <element signature="e#11985#11986#0" expanded="true" />
+            <element signature="e#12016#12017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2256">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="40" selection-end-line="95" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="73" column="18" lean-forward="true" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/Solutions_804.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="5" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedListBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/LinkedListSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/linkedlist/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#3250#3251#0" expanded="true" />
+            <element signature="e#3323#3324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/set/BSTSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/tree/binary_serach_tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        <state relative-caret-position="459">
+          <caret line="236" lean-forward="true" selection-start-line="225" selection-start-column="3" selection-end-line="236" />
           <folding>
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#2004#2005#0" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
-            <element signature="e#2417#2418#0" expanded="true" />
-            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#3152#3153#0" expanded="true" />
+            <element signature="e#3411#3412#0" expanded="true" />
+            <element signature="e#3741#3742#0" expanded="true" />
+            <element signature="e#3769#3770#0" expanded="true" />
+            <element signature="e#5526#5527#0" expanded="true" />
+            <element signature="e#5550#5551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/LinkedListMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#2005#2006#0" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yuan/inter/map/BSTMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1097">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1775#1776#0" expanded="true" />
           </folding>
         </state>
       </provider>

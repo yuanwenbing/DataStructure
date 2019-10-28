@@ -1,14 +1,13 @@
 package com.yuan.inter.stack;
 
-import com.yuan.inter.linkedlist.DummyHeadLinkedList;
 import com.yuan.inter.linkedlist.LinkedList;
 
 public class LinkedListStack<E> implements Stack<E> {
 
-    private DummyHeadLinkedList<E> list;
+    private LinkedList<E> list;
 
     public LinkedListStack() {
-        list = new DummyHeadLinkedList<>();
+        list = new LinkedList<>();
     }
 
     @Override
